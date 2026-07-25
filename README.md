@@ -118,4 +118,4 @@
 - 移除玩家中心功能
 
 ## 反馈
-优先提交 Issue：https://github.com/ICU-Club
+优先提交 Issue：[https://github.com/ICU-Club](https://github.com/Gangan1145/MonsterClearPlugin.git)
